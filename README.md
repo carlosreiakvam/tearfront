@@ -1,3 +1,2 @@
 # tearfront
-Frontend webapplication using the tearapi API.
-The application lets you connect with people having opposite opinions from yours.
+This web application utilizes the tearapi API, enabling users to engage with individuals who hold contrasting viewpoints to their own.
